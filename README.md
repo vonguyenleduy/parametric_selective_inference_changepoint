@@ -1,4 +1,4 @@
-# Computing Valid p-value for Optimal Changepoint by Selective Inference using Dynamic Programming
+# Computing Valid p-value for Optimal Changepoint by Selective Inference using Dynamic Programming (NeurIPS 2020)
 
 This package implements a method to compute valid p-value for optimal changepoint by selective inference using dynamic programming. Based on the selective inference (SI) framework, we propose an exact (non-asymptotic) approach to compute valid p-values for testing the significance of the changepoints. Although it is well-known that SI has low statistical power because of over-conditioning, we address this disadvantage by introducing parametric programming techniques. We propose an efficient method to conduct SI with the minimum amount of conditioning, leading to high statistical power.
 
